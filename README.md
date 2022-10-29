@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">✨ Hi, I'm Hanâ (they/she) ✨</h1>
+<h3 align="center">full-stack software engineer.</h3>
 
-<!--
-**hanazzz/hanazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![clouds-banner](https://user-images.githubusercontent.com/96971685/198793679-1e0fa8b6-1823-44a2-b573-55027ebcc83e.png)
 
-Here are some ideas to get you started:
+🥚 My most recent project is **[BitBuddy](bitbuddy.hanazait.com)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I recently graduated from the **Hackbright Academy Software Engineer Bootcamp.**
+
+⚡ Right now I'm really enjoying **making pixel art** (see above), **cuddling my cat**, and **pop culture commentary**.
+
+📮 You can also find me here: [LinkedIn](https://www.linkedin.com/in/hanazait/)
+
+<h3 align="center">Check out what I've been up to ⬇️</h3>
