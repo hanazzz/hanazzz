@@ -7,8 +7,8 @@
 
 📚 I recently graduated from the **Hackbright Academy Software Engineer Bootcamp.**
 
-⚡ Right now I'm really enjoying **making pixel art** (see above), **cuddling my cat**, and **pop culture commentary**.
+⚡ Right now I'm really enjoying **making pixel art**, **cuddling my cat**, and **pop culture commentary**.
 
-📮 You can also find me here: [LinkedIn](https://www.linkedin.com/in/hanazait/)
+📮 You can also find me here: [LinkedIn](https://www.linkedin.com/in/hanazait/) || [Personal website](https://hanazait.com/)
 
 <h3 align="center">Check out what I've been up to ⬇️</h3>
